@@ -12,7 +12,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@VIP_EXTRACTOR_ROBOT")
 BOT_TEXT = "VIP PRO EXTRACTOR"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "8056915809"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7192966134"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003427507980"))
